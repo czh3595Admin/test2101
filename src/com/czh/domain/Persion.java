@@ -5,4 +5,6 @@ public class Persion {
     private String name;
     private String address;
     private Integer age;
+    private String abcefg;
+    private Long  aaa;
 }
